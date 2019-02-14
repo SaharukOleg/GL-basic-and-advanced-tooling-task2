@@ -1,0 +1,3 @@
+rootProject.name = 'GL_BasicAndAdvancedTooting2'
+include 'module'
+
